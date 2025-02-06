@@ -1,4 +1,4 @@
-package org.example;
+package com.brunoshiroma.java.concurrent.poc;
 
 import java.io.IOException;
 import java.net.URI;
